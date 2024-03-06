@@ -1,0 +1,3 @@
+## Description
+
+The Notes Application is a comprehensive tool designed for efficient note management. It enables users to seamlessly create, view, update, and delete notes, making it an indispensable tool for organizing thoughts, tasks, and information. With its intuitive interface and robust feature set, users can not only manage individual notes but also categorize them by topics for better organization.
